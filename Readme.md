@@ -24,7 +24,7 @@ pip install matplotlib
 or you can use a single command 
 ```pip install ultralytics albumentations opencv-python-headless tqdm supervision matplotlib torch torchvision```
 
-Download the Vehicle Detection Dataset at https://drive.google.com/drive/folders/1tcTgCFDITvKggLJYxHfMG5cgduFrTl6n?usp=sharing
+Download the Vehicle Detection Dataset at https://www.kaggle.com/datasets/alkanerturan/vehicledetection/data
 
 To run our prioject make sure you have the dataset downloaded.
 To augment our data use the following command.
